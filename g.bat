@@ -6,4 +6,4 @@ git add .
 
 git commit -m "Routine commit"
 
-git push
+git push --set-upstream origin master
