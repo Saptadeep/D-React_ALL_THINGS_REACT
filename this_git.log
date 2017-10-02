@@ -1,10 +1,4 @@
-On branch master
-Your branch is up-to-date with 'origin/master'.
-Untracked files:
-	this_git.log
-
-nothing added to commit but untracked files present
-[master 5e6b138] Routine commit
+[master 8a45c24] Routine commit
  Committer: Saptadeep <Saptadeep>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -18,5 +12,4 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 6 insertions(+)
- create mode 100644 this_git.log
+ 2 files changed, 16 insertions(+)
