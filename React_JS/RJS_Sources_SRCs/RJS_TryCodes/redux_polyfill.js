@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>ES6</title>
-</head>
-<body>
-	<script type="text/javascript" src="./helpers.js"></script>
-	<script type="text/javascript">
-		
-		(function webpackUniversalModuleDefinition(root, factory) {
+(function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
 	else if(typeof define === 'function' && define.amd)
@@ -952,18 +943,3 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ ])
 });
 ;
-webpackUniversalModuleDefinition();
-
-
-
-	</script>
-	<script>
-		console.log(99999);	
-		const store = createStore(reducer, 0);
-		cl(store);
-		
-	</script>
-
-
-</body>
-</html>
