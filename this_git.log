@@ -1,4 +1,4 @@
-[master 8a45c24] Routine commit
+[master b9f84fa] Routine commit
  Committer: Saptadeep <Saptadeep>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,4 +12,6 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 2 files changed, 16 insertions(+)
+ 4 files changed, 2 insertions(+), 9 deletions(-)
+ delete mode 100644 Redux/Redux_Docs/~$dux_Notes.docx
+ delete mode 100644 Redux/Redux_Docs/~WRL1502.tmp
